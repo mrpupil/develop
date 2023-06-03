@@ -1,0 +1,4 @@
+git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git
+cd WhiteSur-gtk-theme/
+./install.sh -m -t all -l -N stable --normal --round
+sudo .tweaks/sh -g
