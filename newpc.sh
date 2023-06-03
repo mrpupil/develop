@@ -78,6 +78,7 @@ sudo apt install git
 sudo snap install tradingview
 sudo snap install authy
 sudo snap install telegram-desktop
+sudo snap install bitwarden
 
 # ---------------------------------------------------------------------- #
 
