@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y2v68ec7" group-title="Radios", Só Kakarecos Disco
+http://sokakarecos.ddns.net:9000/disco128
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y2v68ec7" group-title="Radios", Só Kakarecos Light
+http://sokakarecos.ddns.net:9005/light128/
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y2v68ec7" group-title="Radios", Só Kakarecos Classic Rock
+http://sokakarecos.ddns.net:9030/rock128
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s123837d.png" group-title="Radios", Radio 80 FM
+https://centova.euroti.com.br:20001/1/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y5gh7o83" group-title="Radios", Rádio Pop Rock do Brasil
+http://c4.radioboss.fm:8216/stream
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", Jackpots Radio
+https://stream01.my105.ch/my105jackpotsradio.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", Todays Best Music
+https://my105-stream16.radiohost.de/my105-todaysbestmusic_mp3-192?
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", DJ Radio
+https://stream01.my105.ch/my105djradio.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", House
+https://stream01.my105.ch/my105house.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", 80s
+https://stream01.my105.ch/my10580s.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", Dance
+https://stream01.my105.ch/my105dance.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", Nu Disco
+https://stream01.my105.ch/my105disconudisco.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", Deep House
+https://stream01.my105.ch/my105deep.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", Chill
+https://stream01.my105.ch/my105chill.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", Old School
+https://stream01.my105.ch/my105oldschool.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", Party
+https://stream01.my105.ch/my105party.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios",  All the hits
+https://stream01.my105.ch/my105allthehits.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296635/images/logod.jpg" group-title="Radios", X-Mas
+https://stream01.my105.ch/my105xmas.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s170459/images/logod.png" group-title="Radios", Rádio Nova Brasil (AJU)
+https://24253.live.streamtheworld.com/NOVABRASIL_ARACAJU.mp3
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y63qqqwp" group-title="Radios", Rádio Cultura 670 AM (Sergipe)
+http://wz3.dnip.com.br/cultura670hd/cultura670hd.stream/chunklist_w118303218.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2w72srad" group-title="Radios", Jubileu FM
+https://stm25.srvaudio.com.br:11534/Jubileu FM
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4tm3zzz" group-title="Radios", Rádio Evangelizar FM
+https://shout87.crossradio.com.br:18000/Evangelizar FM
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139152d.png" group-title="Radios", Rádio LOVETIMES
+https://c15.radioboss.fm:18152/stream
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s264202/images/logod.jpg" group-title="Radios", Hunter.FM - Sertanejo
+https://live.hunter.fm/sertanejo_high
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y5oz4awj" group-title="Radios", Rádio Liberal FM (Belem)
+http://177.105.192.70:9750/stream/1/
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4wxghkn" group-title="Radios", 99 FM (Belem)
+https://player-ssl.kshost.com.br:8862/stream/1/
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y493dz3u" group-title="Radios", Rádio Antena 1 (São Paulo)
+https://www.antena1.com.br/stream/stream/2;?type=mpeg
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxa3kf7p" group-title="Radios", Rádio Diário FM (Belem)
+https://player-ssl.kshost.com.br:8856/stream/1/
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s13606/images/logod.png" group-title="Radios", Radio Paradise (ROCK)
+https://stream-tx3.radioparadise.com/mp3-192
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s304824/images/logod.jpg" group-title="Radios", Rádio Bossa Nova Brazil
+https://stream.streamgenial.stream/87eu2988rm0uv
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxmkkwe4" group-title="Radios", KISS Classical
+https://hazel.torontocast.com:2225/stream
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4wfh7jz" group-title="Radios", Smooth Jazz 24/7
+https://ais-sa2.cdnstream1.com/b75154_128mp3
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2aj5bx6b" group-title="Radios", Studio Souto
+https://centova5.transmissaodigital.com:20040/
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/8tuxtv9h" group-title="Radios", Studio Souto
+http://143.208.11.100:8426/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/8tuxtv9h" group-title="Radios", Reggae
+https://sv13.hdradios.net:6734/stream
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/8tuxtv9h" group-title="Radios", Costa del mar Sax radio
+https://radio4.cdm-radio.com:18024/stream-mp3-Smooth
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s161521q.png" group-title="Radios", Radio Caprice Saxophone
+http://79.120.77.11:9011/;
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713q.png" group-title="Radios", 1.FM - Sax4Love
+https://strm112.1.fm/sax4ever_mobile_mp3
+
+#EXTINF:-1 tvg-logo="https://1jazz.ru/wp-content/uploads/2019/10/logo22-1.jpg" group-title="Radios", Sax4Ever (Sax)
+http://185.33.21.112:11217/;stream/;?icy=http
+
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a7/2018/01/17/o-cantor-frank-sinatra-1516217743700_v2_450x337.jpg" group-title="Radios", Frank Sinatra Radio
+http://94.23.159.187:9998/stream?type=http&nocache=60370
+
+#EXTINF:-1 tvg-logo="https://1jazz.ru/wp-content/uploads/2019/10/logo22-1.jpg" group-title="Radios", Digital Impulse - Blues Channel
+http://orion.shoutca.st:8990/stream
